@@ -1,0 +1,74 @@
+2021-01-02 13:00:00|perf: optimize
+2021-02-08 14:00:00|test: add test
+2021-03-11 14:00:00|chore: update activity
+2021-03-14 10:00:00|chore: update activity
+2021-03-22 10:00:00|perf: optimize
+2021-04-16 12:00:00|refactor: cleanup
+2021-05-01 10:00:00|test: add test
+2021-05-02 09:00:00|style: formatting
+2021-05-06 11:00:00|style: formatting
+2021-06-04 15:00:00|docs: update readme
+2021-06-11 15:00:00|style: formatting
+2021-06-15 11:00:00|docs: update readme
+2021-07-19 13:00:00|chore: maintenance
+2021-07-26 12:00:00|docs: update readme
+2021-08-01 12:00:00|test: add test
+2021-08-19 13:00:00|refactor: cleanup
+2021-08-24 13:00:00|docs: update readme
+2021-08-27 14:00:00|chore: maintenance
+2021-08-28 15:00:00|chore: update activity
+2021-09-04 12:00:00|refactor: cleanup
+2021-09-15 15:00:00|perf: optimize
+2021-09-28 12:00:00|fix: minor adjustment
+2021-10-13 08:00:00|refactor: cleanup
+2021-10-18 10:00:00|refactor: cleanup
+2021-10-20 11:00:00|chore: maintenance
+2021-10-26 10:00:00|fix: minor adjustment
+2021-11-08 12:00:00|refactor: cleanup
+2021-11-12 14:00:00|style: formatting
+2021-11-26 10:00:00|chore: update activity
+2021-12-26 11:00:00|refactor: cleanup
+2021-12-27 14:00:00|test: add test
+2021-12-30 15:00:00|refactor: cleanup
+2021-06-02 16:27|Implementa relatórios
+2021-06-02 14:03|Initial commit
+2021-06-02 10:51|Primeira versão do projeto
+2021-06-16 10:08|Melhora apresentação dos dados em tabela
+2021-06-03 10:27|Corrige cálculo de totais
+2021-06-03 11:43|Implementa validação de formulários
+2021-06-03 14:24|Separa lógica em classes
+2021-06-07 15:23|Documenta funções principais
+2021-07-28 14:46|Adiciona funcionalidade principal
+2021-07-28 16:42|Remove código morto
+2021-08-12 09:12|Adiciona exemplos de uso
+2021-09-29 15:39|Padroniza nomenclatura do código
+2021-06-03 10:27|Corrige cálculo de totais
+2021-06-03 11:43|Implementa validação de formulários
+2021-06-03 14:24|Separa lógica em classes
+2021-06-07 15:23|Documenta funções principais
+2021-07-28 14:46|Adiciona funcionalidade principal
+2021-07-28 16:42|Remove código morto
+2021-08-12 09:12|Adiciona exemplos de uso
+2021-09-29 15:39|Padroniza nomenclatura do código
+2021-06-01 11:58|Adiciona comentários explicativos no código
+2021-06-01 16:32|Padroniza nomenclatura do código
+2021-06-14 10:20|Melhora layout da página inicial
+2021-06-14 10:35|Ajusta tratamento de erros no formulário
+2021-07-14 10:35|Remove código morto
+2021-07-14 15:39|Adiciona relatório de relatórios
+2021-08-10 11:38|Implementa CRUD de busca
+2021-09-15 09:32|Corrige exibição em mobile
+2021-10-27 15:42|Setup inicial com funcionalidades básicas
+2021-06-07 11:10|Primeira versão do projeto
+2021-06-07 11:38|Remove código morto
+2021-06-11 16:32|Implementa autenticação básica
+2021-08-24 11:36|Padroniza nomenclatura do código
+2021-09-22 09:09|Ajusta espaçamento e tipografia
+2021-06-02 10:11|Implementa validação de formulários
+2021-07-12 11:43|Melhora apresentação dos dados em tabela
+2021-07-12 15:16|Primeira versão do projeto
+2021-08-23 16:42|Corrige redirecionamento após login
+2021-06-02 10:11|Implementa validação de formulários
+2021-07-12 11:43|Melhora apresentação dos dados em tabela
+2021-07-12 15:16|Primeira versão do projeto
+2021-08-23 16:42|Corrige redirecionamento após login

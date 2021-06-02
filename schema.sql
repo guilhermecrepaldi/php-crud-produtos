@@ -1,0 +1,9 @@
+CREATE DATABASE produtos;
+USE produtos;
+CREATE TABLE produtos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(200) NOT NULL,
+    preco DECIMAL(10,2) NOT NULL,
+    descricao TEXT,
+    criado_em TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
