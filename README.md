@@ -48,3 +48,5 @@ Cadastro simples de produtos com MySQL. Create, Read, Update, Delete.
 <!-- 2021-06-08 10:22 -->
 
 <!-- 2021-07-12 10:00 -->
+
+<!-- 2021-08-23 09:42 -->
